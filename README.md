@@ -1,5 +1,15 @@
 # My Portfolio 
 
+# About
+
+My name is Mohammad Arif. I am complete my B.Tech in 2021 from MDU Rohtak ,Haryana.
+A Passionate aspiring Java Full Stack Developer skilled in Java 
+Backend, moulded and shaped by Masai school’s intensive and 
+immersive learning.  Look forward to joining a company where 
+I will  be able to contribute towards individual and company growth.
+
+
+
 ## Features
 
 - Clean, Simple and Modern UI Design.

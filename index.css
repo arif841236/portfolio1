@@ -537,13 +537,13 @@ body:not(.user-is-tabbing) a:focus {
 
 .about__content {
     display: flex;
-    flex-direction: row-reverse;
+    /* flex-direction: row-reverse; */
     align-items: center;
 }
 
 @media(max-width: 900px) {
     .about__content {
-        flex-direction: column-reverse;
+        /* flex-direction: column-reverse; */
         align-items: initial;
     }
 }
@@ -582,7 +582,7 @@ body:not(.user-is-tabbing) a:focus {
 
 .footer__social-links {
     display: flex;
-    justify-content: center;
+    /* justify-content: center; */
     padding: var(--gutter-normal) 0;
     list-style: none;
 }
