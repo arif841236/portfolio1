@@ -171,21 +171,12 @@ Each div with class `work__box` represents a project, replace the contents of th
     <div class="row">
       <!-- Update the links to point to your accounts -->
       <ul class="footer__social-links">
-        <!-- <li class="footer__social-link-item">
-          <a href="https://twitter.com/nisarhassan12/" title="Link to Twitter Profile">
-            <img src="./images/twitter.svg" class="footer__social-image" alt="Twitter">
-          </a>
-        </li> -->
         <li class="footer__social-link-item">
           <a href="https://github.com/arif841236" title="Link to Github Profile">
             <img src="./images/github.svg" class="footer__social-image" alt="Github">
           </a>
         </li>
-        <!-- <li class="footer__social-link-item">
-          <a href="https://codepen.io/nisar_hassan" title="Link to Codepen Profile">
-            <img src="./images/codepen.svg" class="footer__social-image" alt="Codepen">
-          </a>
-        </li> -->
+       
         <li class="footer__social-link-item">
           <a href="https://www.linkedin.com/in/arif841236/">
             <img src="./images/linkedin.svg" title="Link to Linkedin Profile" class="footer__social-image" alt="Linkedin">
